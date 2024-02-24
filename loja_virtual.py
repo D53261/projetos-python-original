@@ -92,7 +92,7 @@ eletronico.aplicar_promocao(6, 2, 12, 0.2)
 
 roupa = Roupas("T-shirt", 60.0, "Uma boa camiseta", True)
 roupa.calcular_desconto()
-roupa.aplicar_promocao(8, 2, 10, 0.5)
+roupa.aplicar_promocao(7, 2, 10, 0.5)
 
 
 listinha = [livro, eletronico, roupa]
