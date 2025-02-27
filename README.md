@@ -6,5 +6,5 @@ Obs.: A organização dos projetos é feita da seguinte maneira: os projetos com
 * Orientação a objetos com Python
 ## Feito por:
 ### Danilo Ribeiro 
-### Linkedin: https://www.linkedin.com/in/danilo-ribeiro-142962274/
+### Linkedin: https://www.linkedin.com/in/danilo-ribeiro-catroli-da-silva/
 ### Email: danilo051007@gmail.com
